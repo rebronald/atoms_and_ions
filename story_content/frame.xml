@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="AI_Landingpage3" />
+              <option name="title_text" value="AI_Landingpage-2levels" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1274,6 +1274,9 @@
         <slidelink slideid="_player.6E8SZlJ3yA2" displaytext="submenu_all about atoms" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6E8SZlJ3yA2.6nFxT7yS0bd" displaytext="Level 1_Main menu" expand="false" type="slide" />
+            <slidelink slideid="_player.6E8SZlJ3yA2.6Bnhn1hHgUd" displaytext="3_ionic_formula" expand="false" type="slide" />
+            <slidelink slideid="_player.6E8SZlJ3yA2.6BFNZeDi7Dp" displaytext="2_all_about_ions" expand="false" type="slide" />
+            <slidelink slideid="_player.6E8SZlJ3yA2.62Tg2BrJdGj" displaytext="1_all about atoms" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
